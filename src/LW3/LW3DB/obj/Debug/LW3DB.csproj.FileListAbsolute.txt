@@ -1,0 +1,7 @@
+C:\Users\amperka\Desktop\LW3\LW3DB\bin\Debug\LW3DB.exe.config
+C:\Users\amperka\Desktop\LW3\LW3DB\bin\Debug\LW3DB.exe
+C:\Users\amperka\Desktop\LW3\LW3DB\bin\Debug\LW3DB.pdb
+C:\Users\amperka\Desktop\LW3\LW3DB\obj\Debug\LW3DB.csproj.AssemblyReference.cache
+C:\Users\amperka\Desktop\LW3\LW3DB\obj\Debug\LW3DB.csproj.CoreCompileInputs.cache
+C:\Users\amperka\Desktop\LW3\LW3DB\obj\Debug\LW3DB.exe
+C:\Users\amperka\Desktop\LW3\LW3DB\obj\Debug\LW3DB.pdb
